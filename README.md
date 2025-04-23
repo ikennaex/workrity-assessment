@@ -28,7 +28,7 @@ this is expected to open port 3500 with the application data
 
    **npm run dev**
 
-**To Run Test, RUN**
+5. To Run Test, RUN
 
 **npm test**
 
