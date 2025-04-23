@@ -6,8 +6,9 @@ const EditTask = ({ currentTask, setCurrentTask, submitEditedTask}) => {
     <div>
       <div className="mx-4 py-5 px-5 my-4 rounded-xl bg-stone-200 w-72">
         <form onSubmit={submitEditedTask} action="">
-          <label className="block text-sm font-medium">Edit Task</label>
+          <label htmlFor="edittask" className="block text-sm font-medium">Edit Task</label>
           <input
+          id="edittask"
             type="text"
             name="name"
             value={currentTask}
