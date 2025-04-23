@@ -26,7 +26,7 @@ this is expected to open port 3500 with the application data
 
 4. Start the React App, RUN
 
-   **npm run dev**
+**npm run dev**
 
 5. To Run Test, RUN
 
