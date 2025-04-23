@@ -15,13 +15,15 @@ This project is a task management application built with React. It uses JSON Ser
 **To Get Started**
 1. Clone REPO or Download ZIP folder
 2. Install Dependencies, RUN 
+
 **npm install**
 
 3. TO START THE MOCK DATABASE, RUN
 **npx json-server -p 3500 -w data/db.json**
 this is expected to open port 3500 with the application data 
 
-4. Start the React App RUN
+4. Start the React App, RUN
+
    **npm run dev**
 
 **To Run Test**
